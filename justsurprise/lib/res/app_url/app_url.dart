@@ -1,0 +1,51 @@
+class AppUrl {
+
+  static const String baseUrl = "https://thepurehearts.in/api";
+
+  static const String signUpApi = "$baseUrl/register";
+  static const String loginApi = "$baseUrl/login";
+  static const String justSurpriseFragApi = "$baseUrl/home";
+  static const String occasionApi = "$baseUrl/occation";
+  static const String giftTypeApi = "$baseUrl/gift_type";
+  static const String findGiftApi = "$baseUrl/find_gifts";
+  static const String categoryApi = "$baseUrl/category_view_all";
+  static const String categoryClickApi = "$baseUrl/category_click";
+  static const String sameDayDeliveryApi = "$baseUrl/same_day_delivery";
+  static const String bestSellerApi = "$baseUrl/best_sellers";
+  static const String newArrivalsApi = "$baseUrl/new_arrivals";
+  static const String faqApi = "$baseUrl/faq";
+  static const String contactApi = "$baseUrl/contact";
+  static const String viewAddressApi = "$baseUrl/view_address";
+  static const String editAddressApi = "$baseUrl/update_address";
+  static const String deleteAddressApi = "$baseUrl/delete_address";
+  static const String addAddressApi = "$baseUrl/add_address";
+  static const String mostLovedGiftViewAllApi = "$baseUrl/most_love_gift_view_all";
+  static const String giftTrendsViewAllApi = "$baseUrl/gift_trend_view_all";
+  static const String favFlowerViewAllApi = "$baseUrl/fav_flower_view_all";
+  static const String bakeryFreshCakeViewAllApi = "$baseUrl/bakery_view_all";
+  static const String giftTellStoriesViewAllApi = "$baseUrl/gift_tell_story_view_all";
+  static const String productDetailApi = "$baseUrl/product_detail";
+  static const String productReviewApi = "$baseUrl/product_review";
+  static const String recentProductViewApi = "$baseUrl/recent_product_view";
+  static const String mayAlsoLikeApi = "$baseUrl/may_also_like";
+  static const String recentProductAddApi = "$baseUrl/recent_product_add";
+  static const String forgotPasswordApi = "$baseUrl/ForgotPassword";
+  static const String updateProfileApi = "$baseUrl/update_profile";
+  static const String changePasswordApi = "$baseUrl/changePassword";
+  static const String viewCartApi = "$baseUrl/view_cart";
+  static const String searchProductApi = "$baseUrl/search_product";
+  static const String pincodeApi = "$baseUrl/pincode";
+  static const String addonApi = "$baseUrl/addon";
+  static const String addCartApi = "$baseUrl/add_cart";
+  static const String deleteCartApi = "$baseUrl/delete_cart";
+  static const String addorderApi = "$baseUrl/add_order";
+  static const String viewOrderApi = "$baseUrl/order_list";
+  static const String orderDetailApi = "$baseUrl/order_click";
+  static const String deleteOrderApi = "$baseUrl/delete_order";
+  static const String filterApi = "$baseUrl/filter_product";
+  static const String addProductReviewsApi = "$baseUrl/add_product_review";
+  static const String addDeliveryReviewsApi = "$baseUrl/add_delivery_review";
+  static const String sortingApi = "$baseUrl/sorting";
+  static const String pincodeCheckApi = "$baseUrl/pincode_check";
+  static const String getAllSaleProductApi = "$baseUrl/get_all_sale_product";
+}

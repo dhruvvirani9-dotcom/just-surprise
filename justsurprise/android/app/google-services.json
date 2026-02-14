@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951358377171",
+    "project_id": "justsurprise-7a694",
+    "storage_bucket": "justsurprise-7a694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951358377171:android:ee28c69f3d81cf384a9826",
+        "android_client_info": {
+          "package_name": "com.example.justsurprise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951358377171-039j2qtkm6q40ubmkbdigtjrkr1fces9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justsurprise",
+            "certificate_hash": "413705a1ffc84c05520e338f5008c4f31daeb8fd"
+          }
+        },
+        {
+          "client_id": "951358377171-3rqfas6jtfm76rodmp6icdiq84q39ijs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7vl6Y80kWSJmv3jQgkRGdt7XqmXdKPrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951358377171-3rqfas6jtfm76rodmp6icdiq84q39ijs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
